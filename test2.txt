@@ -4,3 +4,6 @@ This is a test of a new file
 test
 test
 test
+
+
+add some content
